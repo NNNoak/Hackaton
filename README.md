@@ -1,2 +1,0 @@
-# Hackaton
-Crédit Agricole
